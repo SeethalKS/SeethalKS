@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SeethalKS
-- 👀 I’m interested in IT sector
-- 🌱 I’m currently learning and Implementing using Programming languages
-- 💞️ I’m looking to collaborate on Coding Development works
-- 📫 How to reach me QATAR-71742740 /IND-+91 8281338172
+Hi, I’m @SeethalKS
+👀 I’m passionate about the IT sector and software development.
+🌱 Currently, I’m learning and implementing various programming languages.
+💞️ I’m open to collaborating on coding and development projects.
+📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
 
 <!---
 SeethalKS/SeethalKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

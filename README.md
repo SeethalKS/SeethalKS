@@ -1,16 +1,16 @@
-Hi, I’m @SeethalKS
+<!---Hi, I’m @SeethalKS
 👀 I’m passionate about the IT sector and software development.
 🌱 Currently, I’m learning and implementing various programming languages.
 💞️ I’m open to collaborating on coding and development projects.
 📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
-
+--->
 <h1 align="center">Hi 👋, I'm Seethal</h1>
 <h3 align="center">A passionate Software developer from Qatar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seethalks&label=Profile%20views&color=0e75b6&style=flat" alt="seethalks" /> </p>
 
 - 📫 How to reach me **seethalks007@gmail.com**
-
+📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/seethal-k-s-developer" target="_blank">

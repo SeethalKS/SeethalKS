@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seethalks&label=Profile%20views&color=0e75b6&style=flat" alt="seethalks" /> </p>
 
-- 📫 How to reach me **seethalks007@gmail.com**
+- 📫 How to reach me **developersks7@outlook.com**
 📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
 <h3 align="left">Connect with me:</h3>
 <p align="left">

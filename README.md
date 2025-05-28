@@ -13,7 +13,7 @@
 📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/seethal-k-s-developer" target="_blank">
+<a href="https://www.linkedin.com/in/meet-seethal-softwaredeveloper" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Seethal K S" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/_____seethal.____?igsh=mxfidnj6yzdwzmt4bq==&utm_source=ig_contact_invite" target="_blank">

@@ -5,7 +5,7 @@
 📫 Reach me at Qatar: +974 71742740 / India: +91 8281338172
 --->
 <h1 align="center">Hi 👋, I'm Seethal</h1>
-<h3 align="center">A passionate Software developer from Qatar</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seethalks&label=Profile%20views&color=0e75b6&style=flat" alt="seethalks" /> </p>
 
